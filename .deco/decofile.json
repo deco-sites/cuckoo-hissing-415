@@ -244,7 +244,8 @@
       },
       {
         "__resolveType": "site/sections/Hero.tsx",
-        "cta": []
+        "cta": [],
+        "title": "<p>Hi!!!</p>"
       },
       {
         "__resolveType": "site/sections/Logos.tsx"
